@@ -8,3 +8,4 @@ spacy
 folium
 geopandas
 wordcloud
+plotly==5.18.0
